@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **yiezias/yiezias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+    平平无奇的主页
+</h1>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiezias)](https://github.com/yiezias/github-readme-stats)
+欢迎第 ![Visitor Count](https://profile-counter.glitch.me/yiezias/count.svg) 位访客
+
+<!--
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=yiezias&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiezias&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&theme=calm&langs_count=6&layout=compact" />
+</div>
+-->
+
+## 标配的统计卡片
+<div align="left">
+    <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiezias&hide=html,css&layout=compact&langs_count=8&theme=cobalt" align="center" />
+    <img height='180' src="https://github-readme-stats.vercel.app/api?username=yiezias&show_icons=true&theme=cobalt" align="center" />
+</div>
